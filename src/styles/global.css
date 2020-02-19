@@ -1,0 +1,10 @@
+body {
+    min-height: 100vh; 
+    /*
+    vh: 相對於視窗的高度, 視窗被均分為100單位的vh
+    vw: 相對於視窗的寬度, 視窗被均分為100單位的vw
+    */
+    position: relative; /*位置定位*/
+    margin: 0;
+    padding-bottom: 60px; /*底部空間*/
+}
